@@ -1,5 +1,4 @@
 # PoLeV1.0
-Author: YixiaoLan
 Usage:
 Just run consensusnode.py as server and datanode.py as a client in console.
 For example:
